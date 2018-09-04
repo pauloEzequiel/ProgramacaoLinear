@@ -15,7 +15,9 @@ Exemplo:
 (MAX) Z = 40x1 + 30x2 
 # sujeito a:
 0,5x1 <= 8
+
 x2 <= 8
+
 x1+2x2<=24          
 
 
